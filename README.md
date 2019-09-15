@@ -1,5 +1,5 @@
 # robot-101
-Tutorial, books, videos, resources to help us learn and DIY Open Sources Robot.
+Tutorials, books, videos, resources to help us learn and DIY Open Sources Robot.
 
 Feel free to add more, please.
 
