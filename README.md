@@ -39,3 +39,14 @@ Feel free to add more, please.
 - [Learning ROS for Robotics Programming secondedition](http://wiki.ros.org/Books/LearningROSforRoboticsProgramming_second_edition), [ROS机器人程序设计](https://www.amazon.cn/dp/B06WRNJ6ST) (2015-08, HIJ, C++)
 - [机器人操作系统ROS原理与应用](https://www.amazon.cn/dp/B072R62XWL)
 - [ROS机器人开发实践 (机器人设计与制作系列)](https://www.amazon.cn/dp/B07PDLSBSQ)
+
+## Open Source Robot
+How do we build a robot? We can learn from the books, YouTube vides, or we can take any of the popular open srouce robot project and follow its steps.
+
+### Open Source Robot Projects
+  - [Jetbot - An educational AI robot based on NVIDIA Jetson Nano](https://github.com/NVIDIA-AI-IOT/jetbot), [中国区零件购买清单](https://github.com/open-ai-robot/awesome-nvidia-jetson)
+  - [JetRacer - An autonomous AI racecar using NVIDIA Jetson Nano](https://github.com/NVIDIA-AI-IOT/jetracer)
+  - [Kaya - An open-source robot powered by NVIDIA's Isaac SDK and the Jetson Nano](https://github.com/nvidia-isaac/kaya-robot)
+  - [DJI Robomaster S1](https://www.dji.com/robomaster-s1), [Knowledge sharing of DJI Robomaster S1!](https://github.com/open-ai-robot/awesome-dji-robomaster)
+### Open Source Robot Tutorials
+ - [YouTube: openDog Dog Robot by James Bruton](https://www.youtube.com/playlist?list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf), [The GitHub](https://github.com/XRobots/openDog)
