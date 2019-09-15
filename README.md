@@ -1,5 +1,12 @@
 # robot-101
-Tutorial, books, videos, resources to help us learn and DIY Open Sources Robot
+Tutorial, books, videos, resources to help us learn and DIY Open Sources Robot.
+
+Feel free to add more, please.
+
+## Table of contents
+  - [ROS](#ros)
+    - [ROS Tutorials](#ros-tutorials)
+    - [ROS Books](#ros-books)
 
 ## ROS
 [Robot Operating System (ROS)](https://www.ros.org/) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project. And it's all open source.
