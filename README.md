@@ -42,6 +42,7 @@ Feel free to add more, please.
 - [Learning ROS for Robotics Programming secondedition](http://wiki.ros.org/Books/LearningROSforRoboticsProgramming_second_edition), [ROS机器人程序设计](https://www.amazon.cn/dp/B06WRNJ6ST) (2015-08, HIJ, C++)
 - [机器人操作系统ROS原理与应用](https://www.amazon.cn/dp/B072R62XWL)
 - [ROS机器人开发实践 (机器人设计与制作系列)](https://www.amazon.cn/dp/B07PDLSBSQ)
+- [ROS机器人项目开发11例 (机器人设计与制作系列)](https://www.amazon.cn/gp/product/B07D8SNGHC)
 
 ## Open Source Robot
 How do we build a robot? We can learn from the books, YouTube vides, or we can take any of the popular open srouce robot project and follow its steps.
