@@ -54,3 +54,7 @@ How do we build a robot? We can learn from the books, YouTube vides, or we can t
   - [DJI Robomaster S1](https://www.dji.com/robomaster-s1), [Knowledge sharing of DJI Robomaster S1!](https://github.com/open-ai-robot/awesome-dji-robomaster)
 ### Open Source Robot Tutorials
  - [YouTube: openDog Dog Robot by James Bruton](https://www.youtube.com/playlist?list=PLpwJoq86vov_PkA0bla0eiUTsCAPi_mZf), [The GitHub](https://github.com/XRobots/openDog)
+ 
+ ## Others
+ ### Books
+  - [JavaScript机器人：用Raspberry Pi、Arduino和BeagleBone构建NodeBots (机器人设计与制作系列)](https://www.amazon.cn/dp/B07X5HZ8WW/)
